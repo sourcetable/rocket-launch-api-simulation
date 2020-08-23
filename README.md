@@ -1,6 +1,6 @@
 
 # Rocket Launches Code Simulation
--
+
 ### Assignment
 Create an API for a rocket launch application that will give a use information about the history of rocket launches since 1959. 
 
