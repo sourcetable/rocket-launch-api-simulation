@@ -16,7 +16,7 @@ Your API should return the following data about rocket launches for a given __co
 Your API can be written in any language/framework and can use any transport protocol a modern web browser can communicate with. The API should be extensible to suit the inevitable design changes we expect on the frontend.  The solution should take less than three hours to complete. 
 
 
-##### There are three tables of data:
+##### There are four tables of data:
 
 1. rocket_launches
 2. rocket_companies
