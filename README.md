@@ -28,11 +28,13 @@ The data is stored in Postgres database below. It is open to all IP addresses.  
 
 | Postgres Database| |
 |---|---|
-| Server|lallah.db.elephantsql.com|
+| Server|*****|
 | Port | 5432 |
-| User | tyqnhaaq |
-| Password | 	M4SbR7Kk2L-dVGEmXXfSrvNnaZAdBoys |
-|database| tyqnhaaq |
+| User | **** |
+| Password | ****	 |
+|database| **** |
+
+* A .env file will be included in the instructions
 
 ### Communication
 We will invite you to a public slack channel to directly communicate with us while you complete the simulation. Feel free to ask any questions.
