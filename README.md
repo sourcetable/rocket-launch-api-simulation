@@ -2,19 +2,18 @@
 # Rocket Launches Code Simulation
 
 ### Assignment
-Create an API for a rocket launch application that will give a use information about the history of rocket launches since 1959. 
+Create an API for a rocket launch application that will give its users information about the history of rocket launches since 1959. 
 
 ### Requirements
-Your API should return the following data about rocket launches for a given __company__ and/or ___date range___.  The API will return:
+Your API should return the following data about rocket launches for a given rocket __company__ and/or __date range__.  The API will return:
 
 * Average launch cost (excluding nulls)
 * Percent of launches where `mission_status` is `success`
-* Most popular month for rocket launches
+* The Most popular month for rocket launches
 * Top three `launch_locations`
-* Top three launch __countries__ for the `launch_locations`
+* Top three launch __countries__ of where the `launch_locations` take place
 
-Your API can be written in any language/framework and can use any transport protocol a modern web browser can communicate with. The API should be extensible to suit the inevitable design changes we expect on the frontend.  The solution should take less than three hours to complete. 
-
+Your API can be written in any language/framework and use any transport protocol supported by a modern web browser. Please include a simple API reference (i.e. a curl example) so a client application developer can use it. API authentication is not required and assume your API is public. The solution should take less than three hours to complete.
 
 ##### There are four tables of data:
 
@@ -24,8 +23,8 @@ Your API can be written in any language/framework and can use any transport prot
 4. launch_location
 
 
-### Connect to the Database
-The data connection is below. It is open to all IPs.  If you have connection difficulties please contact us immediately.
+### Connect to the database
+The data is stored in Postgres database below. It is open to all IP addresses.  If you have connection difficulties please contact us immediately.
 
 | Postgres Database| |
 |---|---|
@@ -35,13 +34,15 @@ The data connection is below. It is open to all IPs.  If you have connection dif
 | Password | 	M4SbR7Kk2L-dVGEmXXfSrvNnaZAdBoys |
 |database| tyqnhaaq |
 
+### Communication
+We will invite you to a public slack channel to directly communicate with us while you complete the simulation. Feel free to ask any questions.
 
-### What we like:
+### What we are looking for:
 
 * Clearly thought out application structure
 * Logically chosen variable and function names
-* A git history that can followed
-* A readme.md that can be be used to get a _development_ environment of API running
+* Git [best practices](https://guides.github.com/introduction/flow/)
+* A readme.md with clear instructions on how to run the API
 
 
 ### How to submit your solution
