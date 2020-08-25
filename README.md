@@ -17,14 +17,14 @@ Your API can be written in any language/framework and use any transport protocol
 
 ##### There are four tables of data:
 
-1. rocket_launches
-2. rocket_companies
-3. mission_status
-4. launch_location
+1. rocket_launches ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/blob/master/rocket_launches.csv))
+2. rocket_companies ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/blob/master/rocket_companies.csv))
+3. mission_status ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/blob/master/mission_status.csv))
+4. launch_location ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/blob/master/launch_location.csv))
 
 
 ### Connect to the database
-The data is stored in Postgres database below. It is open to all IP addresses.  If you have connection difficulties please contact us immediately.
+The data is stored in Postgres database below. It is open to all IP addresses.  If you have connection difficulties please contact us immediately.  You can use the provided database or uplaod the csv files (see csv above) to a data store of your choice.
 
 | Postgres Database| |
 |---|---|
