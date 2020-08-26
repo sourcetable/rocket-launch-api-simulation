@@ -17,10 +17,10 @@ Your API can be written in any language/framework and use any transport protocol
 
 ##### There are four tables of data:
 
-1. rocket_launches ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/csv/blob/master/rocket_launches.csv))
-2. rocket_companies ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/csv/blob/master/rocket_companies.csv))
-3. mission_status ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/csv/blob/master/mission_status.csv))
-4. launch_location ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/csv/blob/master/launch_location.csv))
+1. rocket_launches ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/blob/master/csv/rocket_launches.csv))
+2. rocket_companies ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/blob/master/csv/rocket_companies.csv))
+3. mission_status ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/blob/master/csv/mission_status.csv))
+4. launch_location ([csv](https://github.com/sourcetable/rocket-launch-api-simulation/csv/blob/master/csv/launch_location.csv))
 
 
 ### Connect to the database
