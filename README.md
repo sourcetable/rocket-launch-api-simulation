@@ -9,9 +9,9 @@ Your API should return the following data about rocket launches for a given rock
 
 * Average launch cost (excluding nulls)
 * Percent of launches where `mission_status` is `success`
-* The Most popular month for rocket launches
+* The most popular month for rocket launches
 * Top three `launch_locations`
-* Top three launch __countries__ of where the `launch_locations` take place
+* Top three __countries__ where `launch_locations` take place
 
 Your API can be written in any language/framework and use any transport protocol supported by a modern web browser. Please include a simple API reference (i.e. a curl example) so a client application developer can use it. API authentication is not required and assume your API is public. The solution should take less than three hours to complete.
 
@@ -24,7 +24,7 @@ Your API can be written in any language/framework and use any transport protocol
 
 
 ### Connect to the database
-The data is stored in Postgres database below. It is open to all IP addresses.  If you have connection difficulties please contact us immediately.  You can use the provided database or uplaod the csv files (see csv above) to a data store of your choice.
+The data is stored in Postgres database for convenience. It is open to all IP addresses.  If you have connection difficulties please contact us immediately.  You can use the provided database or uplaod the csv files (see csv above) to a data store of your choice.
 
 | Postgres Database| |
 |---|---|
