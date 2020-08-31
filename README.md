@@ -1,8 +1,8 @@
 
 # Rocket Launches Code Simulation
 
-### Assignment
-Create an API for a rocket launch application that will give its users information about the history of rocket launches since 1959. 
+### Goal
+Create an API for a rocket launch application that will give its users information about the history of rocket launches since 1959.
 
 ### Requirements
 Your API should return the following data about rocket launches for a given rocket __company__ and/or __date range__.  The API will return:
@@ -26,7 +26,7 @@ Your API can be written in any language/framework and use any transport protocol
 ### Connect to the database
 The data is stored in Postgres database for convenience. It is open to all IP addresses.  If you have connection difficulties please contact us immediately.  You can use the provided database or uplaod the csv files (see csv above) to a data store of your choice.
 
-| Postgres Database| |
+| PostgreSQL Database| |
 |---|---|
 | Server|*****|
 | Port | 5432 |
