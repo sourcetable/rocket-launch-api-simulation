@@ -13,7 +13,7 @@ Your API should return the following data about rocket launches for a given rock
 * Top three `launch_locations`
 * Top three __countries__ where `launch_locations` take place
 
-Your API can be written in any language/framework and use any transport protocol supported by a modern web browser. Please include a simple API reference (i.e. a curl example) so a client application developer can use it. API authentication is not required and assume your API is public. The solution should take less than three hours to complete.
+Your API can be written in any language/framework and use any transport protocol supported by a modern web browser. Please include a simple API reference (i.e. a curl example) so a client application developer can use it. API authentication is not required and assume your API is public. The simulation should take less than three hours to complete.
 
 ##### There are four tables of data:
 
