@@ -8,7 +8,7 @@ Create an API for a rocket launch application that will give its users informati
 Your API should return the following data about rocket launches for a given rocket __company__ and/or __date range__.  The API will return:
 
 * Average launch cost (excluding nulls)
-* Percent of launches where `mission_status` is `success`
+* Percent of launches where `mission_status` is `Success`
 * The most popular month for rocket launches
 * Top three `launch_locations`
 * Top three __countries__ where `launch_locations` take place
