@@ -24,7 +24,7 @@ Your API can be written in any language/framework and use any transport protocol
 
 
 ### Connect to the database
-The data is stored in Postgres database for convenience. It is open to all IP addresses.  If you have connection difficulties please contact us immediately.  You can use the provided database or uplaod the csv files (see csv above) to a data store of your choice.
+The data is stored in Postgres database for convenience. It is open to all IP addresses.  If you have connection difficulties please contact us immediately.  You can use the provided database or upload the csv files (see above) to a data store of your choice.
 
 | PostgreSQL Database| |
 |---|---|
@@ -34,7 +34,7 @@ The data is stored in Postgres database for convenience. It is open to all IP ad
 | Password | ****	 |
 |database| **** |
 
-* A .env file will be included in the instructions
+* .env file provided
 
 ### Communication
 We will invite you to a public slack channel to directly communicate with us while you complete the simulation. Feel free to ask any questions.
