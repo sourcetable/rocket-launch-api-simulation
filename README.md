@@ -44,9 +44,9 @@ We will invite you to a public slack channel to directly communicate with us whi
 * Clearly thought out application structure
 * Logically chosen variable and function names
 * Git [best practices](https://guides.github.com/introduction/flow/)
-* A readme.md with clear instructions on how to run the API
+* A `README.md` with clear instructions on how to run the API
 
 
 ### How to submit your solution
 * Make a private fork or clone of this repo
-* When your done invite [@jeffj](https://github.com/jeffj) as a [admin](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to your repo and send __jeff@sourcetable.com__ an email.
+* When you're done, invite [@jeffj](https://github.com/jeffj) as a [admin](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization#permission-levels-for-repositories-owned-by-an-organization) to your repo and send __jeff@sourcetable.com__ an email.
